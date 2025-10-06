@@ -1,0 +1,5 @@
+- Workshop
+- 2 Mini-Projekte
+- Panel
+- Spiele
+- Quizes
