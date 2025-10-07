@@ -79,4 +79,10 @@ Zwei Arten:
 	- die Regierung soll ihr Geld in Unis stecken
 	- geht nicht man kann nicht das ganze Geld der Krankenhäuser in die Unis stecken
 	- "Strawman Argument"
-- 
+
+# Probabilistische Erkenntnis
+
+Loop aus probabilistischen Denkweisen
+
+"A good argument has a premise that makes the conclusion likely to be true"
+
