@@ -16,5 +16,5 @@ Availability bias - Verfügbarkeitsheuristik:
 	- **schnell**, fragmentiert, leichtgewichtig, laut, ohne innere *Stimme*
 	- bsp. Ball fangen
 
-Unterbewusstes Denken ist oft besser --> Overthinking
+Unterbewusstes Denken ist oft besser → Overthinking
 bsp. Glaß mit Wasser, Tennis
