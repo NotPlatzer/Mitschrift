@@ -4,4 +4,5 @@
 
 Availability bias - Verfügbarkeitsheuristik:
 - Heuristik = 
-- bsp. War On Drugs, 
+- bsp. War On Drugs, durch Medien und Politik verursachter Feedbackloop
+- 
