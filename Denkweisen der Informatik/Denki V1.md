@@ -64,4 +64,19 @@ Manipulation:
 Überschätzte Systeme:
 
 
-Bias oft nicht erklärbar weil Systeme nicht einsehbar sind (NDAs, Patente, KI, u)
+Bias oft nicht erklärbar weil Systeme nicht einsehbar sind (NDAs, Patente, AI, usw.)
+"explainability" ⟶ problem der ML und AI
+
+
+# Logische Fehlschlüsse
+
+Zwei Arten:
+- aussagenlogische Fehlschlüsse
+	- Arnold ist schlau
+	- Schlaue Menschen sind an der TU
+	- ⟶Arnold ist an der TU ⟶ Falsch
+- formale Fehlschlüsse
+	- die Regierung soll ihr Geld in Unis stecken
+	- geht nicht man kann nicht das ganze Geld der Krankenhäuser in die Unis stecken
+	- "Strawman Argument"
+- 
