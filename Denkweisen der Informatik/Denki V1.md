@@ -2,6 +2,8 @@
 
 ## Cognitive bias - Kognitive Verzerrungen
 
+look here [[bias.wiki]]
+
 Availability bias - Verfügbarkeitsheuristik:
 - Too much information bias
 - Heuristik = 
@@ -41,4 +43,9 @@ What Should We Remember:
 	Kognitive Dankweißen durch physische Aktionen vereinfachen
 
 
-"Every algorith"
+#### "Every algorithmic bias is there for a reason"
+
+Algorithmus ist eine **black box**
+
+Beispiele:
+- 
