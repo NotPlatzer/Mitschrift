@@ -2,7 +2,7 @@
 
 ## Cognitive bias - Kognitive Verzerrungen
 
-[Bias wiki](https://bias.wiki)
+[Bias wiki hier](https://bias.wiki)
 
 
 Availability bias - Verfügbarkeitsheuristik:
@@ -46,8 +46,7 @@ What Should We Remember:
 
 #### "Every algorithmic bias is there for a reason"
 
-Algorithmus ist eine **black box**
-
 Beispiele:
-- three boys (alle weis) vs three black boys (alle im knast)
+- three boys (alle weis) vs three black boys (alle im Knast)
+- Informatikerin ⟶ meintest du Informatiker?
 - 
