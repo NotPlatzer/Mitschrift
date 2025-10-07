@@ -32,4 +32,8 @@ Not Enough Meaning:
 Need To Act Fast:
 - Wir müssen schnell denken und verlassen uns daher auf den schnellen teil des Gehirns
 - hyperbolic discounting (.99 billiger als 1)
+
 What Should We Remember:
+- Wir können uns nicht alles merken, schnelles Denken mach Zusammenfassungen und speichert dinge die uns in der Zukunft mehr helfen (nicht immer gut)
+- Cognitive Offloading
+	Kognitive Dankweißen durch physische Aktionen vereinfachen
