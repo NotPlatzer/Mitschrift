@@ -44,7 +44,10 @@ What Should We Remember:
 	Kognitive Dankweißen durch physische Aktionen vereinfachen
 
 
-#### "Every algorithmic bias is there for a reason"
+
+### Algorithmic bias
+##### "Every algorithmic bias is there for a reason"
+
 
 Beispiele:
 - three boys (alle weis) vs three black boys (alle im Knast)
@@ -56,5 +59,9 @@ Beispiele:
 		- Weil im Internet mehr solche Bilder sind
 
 Manipulation:
-- 2016 durch Netzwerk rechter Websites die alle aufeinander verlinkt waren ⟶ Suchergebnis vorschläge
-- 
+- 2016 durch Netzwerk rechter Websites die alle aufeinander verlinkt waren ⟶ Suchergebnis Vorschläge
+
+Überschätzte Systeme:
+
+
+Bias oft nicht erklärbar weil Systeme nicht einsehbar sind (NDAs, Patente, KI, u)
