@@ -54,4 +54,7 @@ Beispiele:
 	- Engineer ⟶ alt, traurig
 	- Wieso?
 		- Weil im Internet mehr solche Bilder sind
-	
+
+Manipulation:
+- 2016 durch Netzwerk rechter Websites die alle aufeinander verlinkt waren ⟶ Suchergebnis vorschläge
+- 
