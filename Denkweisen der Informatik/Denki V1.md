@@ -3,9 +3,11 @@
 ## Cognitive bias - Kognitive Verzerrungen
 
 Availability bias - Verfügbarkeitsheuristik:
+- Too much information bias
 - Heuristik = 
 - bsp. War On Drugs, durch Medien und Politik verursachter Feedbackloop
-
+Confirmation bias:
+- Man sieht nur das was die eigene Meinung stärkt
 
 ### Bestandteile des Denkens
 
@@ -23,4 +25,5 @@ Kognitiver Geizhals:
 	Gehirn versucht alles mit dem schnellen Denken (Intuition) zu lösen, das verursacht Fehler
 
 
-
+Not Enough Meaning:
+- 
