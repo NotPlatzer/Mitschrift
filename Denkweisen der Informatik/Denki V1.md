@@ -8,7 +8,9 @@ Availability bias - Verfügbarkeitsheuristik:
 - bsp. War On Drugs, durch Medien und Politik verursachter Feedbackloop
 Confirmation bias:
 - Man sieht nur das was die eigene Meinung stärkt
-
+Fixation bias:
+- Das erste was ich sehe bildet mein denken darüber
+- bsp. erster TV den ich sehe kostet $600, der nächste $100 ⟶ viel billiger
 ### Bestandteile des Denkens
 
 - Bewusstes Denken
@@ -37,3 +39,6 @@ What Should We Remember:
 - Wir können uns nicht alles merken, schnelles Denken mach Zusammenfassungen und speichert dinge die uns in der Zukunft mehr helfen (nicht immer gut)
 - Cognitive Offloading
 	Kognitive Dankweißen durch physische Aktionen vereinfachen
+
+
+"Every algorith"
