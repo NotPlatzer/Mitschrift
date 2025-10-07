@@ -26,4 +26,10 @@ Kognitiver Geizhals:
 
 
 Not Enough Meaning:
-- 
+- survivor bias
+- Ursache vs. Wirkung
+
+Need To Act Fast:
+- Wir müssen schnell denken und verlassen uns daher auf den schnellen teil des Gehirns
+- hyperbolic discounting (.99 billiger als 1)
+What Should We Remember:
