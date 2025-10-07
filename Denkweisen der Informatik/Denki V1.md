@@ -49,4 +49,9 @@ What Should We Remember:
 Beispiele:
 - three boys (alle weis) vs three black boys (alle im Knast)
 - Informatikerin ⟶ meintest du Informatiker?
-- 
+- Midjourney
+	- Nurse ⟶ jung, hübsch
+	- Engineer ⟶ alt, traurig
+	- Wieso?
+		- Weil im Internet mehr solche Bilder sind
+	
