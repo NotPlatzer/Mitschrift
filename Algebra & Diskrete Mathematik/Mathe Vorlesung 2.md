@@ -6,4 +6,6 @@ $\exists$: "Existenzquantor", "es existiert"
 "indirekter Beweis": nicht B => nicht A
 	oft "Beweis durch Widerspruch"
 
-
+$$
+n+0=n
+$$
