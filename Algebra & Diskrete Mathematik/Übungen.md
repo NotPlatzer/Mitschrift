@@ -31,4 +31,11 @@ $\sqrt{ 5 } = \frac{m}{n}$
 
 Voraussetzung:
 
-$5\not\mid m $
+$5\not\mid m \wedge 5 \not\mid n$    (m oder n nicht durch 5 teilbar)
+
+$m=\sqrt{ 5 }$n
+$m^2=5n^2 \implies 5 \mid m^2 \implies 5 \mid m \implies 5k = m$
+
+$(5k)^2 = 5n^2$
+$25k^2=5n^2$
+$5k$
