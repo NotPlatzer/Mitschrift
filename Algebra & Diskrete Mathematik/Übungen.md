@@ -23,3 +23,12 @@ $= 2^{n+1}((n-1)+(n+1))+2$
 $=2^{n+1}(2n)$
 $=2^{n+2}n+2$
 
+### 26)
+
+Zeige, dass $\sqrt{ 5 }$ irrational ist:
+
+$\sqrt{ 5 } = \frac{m}{n}$
+
+Voraussetzung:
+
+$5\not\mid m $
