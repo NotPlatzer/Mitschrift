@@ -38,4 +38,7 @@ $m^2=5n^2 \implies 5 \mid m^2 \implies 5 \mid m \implies 5k = m$
 
 $(5k)^2 = 5n^2$
 $25k^2=5n^2$
-$5k$
+$5k^2=n^2 \implies 5 \mid n^2 \implies \boxed{5 \mid n}$
+
+
+
