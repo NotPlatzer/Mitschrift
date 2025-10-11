@@ -76,7 +76,13 @@ $1^3-1=0 \implies$ Basst
 
 I.V.
 
+I.S.
+$n\implies n+1$
+$=(n+1)^3-(n+1)$
+$=n^3+3n^2+3n+1-n-1$
+$=(n^3-n)+3n(n+1)$
 
+Wir wissen, dass $(n^3-n)$ durch I.V. bedingt durch 3 teilbar ist $\implies$ 
 
 
 
