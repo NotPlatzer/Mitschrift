@@ -69,6 +69,12 @@ $n^3-n=n(n-1)(n+1)$
 
 Da wir auf der rechten Seite drei aufeinanderfolgende Zahlen haben muss eine durch 3 teilbar sein, wenn ein Faktor des Produkts durch 3 teilbar ist dann ist das Ergebnis auch durch 3 teilbar.
 
+b)
+I.A. 
+$n=1$
+$1^3-1=0 \implies$ Basst
+
+I.V.
 
 
 
