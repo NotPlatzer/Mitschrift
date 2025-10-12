@@ -88,5 +88,16 @@ Wir wissen, dass $(n^3-n)$ durch I.V. bedingt durch 3 teilbar ist $\implies$ $\b
 
 
 
+### 20)
+
+$3n+2^n \leq 3^n$
+
+I.A.
+$n=3$
+$9+8\leq 26 \implies OK$
+
+I.V. 
+
+
 
 
