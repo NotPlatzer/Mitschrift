@@ -99,5 +99,18 @@ $9+8\leq 26 \implies OK$
 I.V. 
 
 
+Muss für $n+1$ auch stimmen
 
+$3(n+1)+2^{n+1} \leq 3^{n+1}$
+$3n+3+2^n+2^n$
+$=(3n+2^n)+(3+2^n)$
 
+Wir wissen:
+
+$(3n+2^n) \leq 3^n$
+
+und
+
+$3\leq{3}^n$
+$2^n\leq 3^n$
+$\implies 3+2^n\leq$
