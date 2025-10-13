@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "02fd866fd127a239",
+    "type": "split",
+    "children": [
+      {
+        "id": "fee11541a75d20ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdeae5e8a431b2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Denkweisen der Informatik/V1 - Critical Thinking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V1 - Critical Thinking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02e07b9bb1b2a0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "92486715bdf70f6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9385cc056154168",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3e07512de568907d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4137bab325a6e00c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e59cb8c7066ef48",
+    "type": "split",
+    "children": [
+      {
+        "id": "7384e7b347f3718f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fecf8c755856b0b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Denkweisen der Informatik/V1 - Critical Thinking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for V1 - Critical Thinking"
+            }
+          },
+          {
+            "id": "fe656574909f261d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Denkweisen der Informatik/V1 - Critical Thinking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from V1 - Critical Thinking"
+            }
+          },
+          {
+            "id": "48bf2c7e94f6dce2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aca4cceead190ae0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Denkweisen der Informatik/V1 - Critical Thinking.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of V1 - Critical Thinking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cdeae5e8a431b2f9",
+  "lastOpenFiles": [
+    "Denkweisen der Informatik/V2 -.md",
+    "Denkweisen der Informatik/V1 - Critical Thinking.md"
+  ]
+}
