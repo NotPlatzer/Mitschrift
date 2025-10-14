@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Denkweisen der Informatik/V1 - Critical Thinking.md",
+                "file": "Denkweisen der Informatik/V2 - Computational Thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V1 - Critical Thinking"
+              "title": "V2 - Computational Thinking"
             }
           }
         ]
@@ -171,7 +171,9 @@
   },
   "active": "cdeae5e8a431b2f9",
   "lastOpenFiles": [
-    "Denkweisen der Informatik/V2 -.md",
-    "Denkweisen der Informatik/V1 - Critical Thinking.md"
+    "Algebra & Diskrete Mathematik/Übungen.md",
+    "Algebra & Diskrete Mathematik/Übungen.pdf",
+    "Denkweisen der Informatik/V1 - Critical Thinking.md",
+    "Denkweisen der Informatik/V2 - Computational Thinking.md"
   ]
 }
