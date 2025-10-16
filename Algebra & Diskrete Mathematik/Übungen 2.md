@@ -62,6 +62,7 @@ Polare Darstellung:
 
 $r=\sqrt{ a^2+b^2 }= \sqrt{ (-1)^2+(\pm \sqrt{ 3 })^2 }=\sqrt{ 1+3 }=2$
 
+
 Zur Umrechnung brauchen wir einen Hilfswinkel $\alpha$
 $\tan \alpha=|\frac{b}{a}|$
 $\alpha=\arctan{\frac{b}{a}}$
