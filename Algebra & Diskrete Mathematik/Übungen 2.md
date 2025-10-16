@@ -56,4 +56,10 @@ $z^2+2z+1=(z+1)^2$
 $\implies z^2+2z+4=(z+1)^2+3\implies \underbrace{ (z+1)^2 }_{ w }=-3$
 $w^2=-3 \implies w=\pm i \sqrt{ 3 }$
 
-$z+1=\pm$
+Kartesische Darstellung:
+$z+1=\pm i\sqrt{ 3 }$
+$z_{1,2}=-1\pm i\sqrt{ 3 }$
+
+Polare Darstellung:
+
+$r=\sqrt{ a^2+b^2 }= \sqrt{ (-1)^2+(\pm \sqrt{ 3 })^2 }$
