@@ -32,7 +32,7 @@ $-i=1\left( \cos{-\frac{\pi}{2}} + i \sin{\frac{\pi}{2}} \right)$
 
 Die Berechnung der n-ten Wurzel
 
-$\boxed{w_{k}=r^{\frac{1}{n}}\left( \cos{\frac{{\varphi+2\pi k}}{n}} + i \sin{\frac{{\varphi+2\pi k}}{n}} \right)}$
+$\boxed{w_{k}=r^{\frac{1}{n}}\left( \cos{\frac{{\varphi+2\pi k}}{n}} + i \sin{\frac{{\varphi+2\pi k}}{n}} \right)} \text{   für:} k < n$
 
 $n=3, r=1, \varphi= -\frac{\pi}{2}$
 
@@ -41,11 +41,11 @@ $w_{0}= \text{logisch} = [1,-\frac{\pi}{6}]$
 $w_{1}\implies$
 $r=1$
 $\varphi=-\frac{\pi}{2}+2\pi=\frac{\pi}{2}$
-$$
+$\boxed{w_{1}=\left[ 1,{\frac{\pi}{2}} \right]}$
 
-$w_{1}=\left[ 1, \frac{\pi}{2} \right]$
+$\boxed{w_{1}=\left[ 1, \frac{\pi}{2} \right]}$
 
-$w_{2}=\left[ 1,{\frac{7\pi}{6}} \right]$
+$\boxed{w_{2}=\left[ 1,{\frac{7\pi}{6}} \right]}$
 
 ### 42)
 Alle Lösungen der Gleichung: $z^2+2z+4=0$
