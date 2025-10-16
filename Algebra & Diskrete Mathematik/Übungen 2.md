@@ -12,7 +12,7 @@ $z_{2}=[2,\frac{\pi}{2}]$ ⟶ Polare Darstellung
 
 $z_{2}=r(\cos{\varphi} + i \sin{\varphi})\implies 2\left( \cos{\frac{\pi}{2} + \sin{\frac{\pi}{2}}} \right)$
 
-$\cos \frac{\pi}{2} = o$
+$\cos \frac{\pi}{2} = 0$
 $\sin \frac{\pi}{2}=1$
 
 $z_{2}=\boxed{2i}$
@@ -27,4 +27,12 @@ Alle werte von $\sqrt[3]{ -i }$
 $x^3=-i$
 
 $z=r(\cos \varphi+i \sin \varphi)=-i$
+$r = |z|=\sqrt{ 0^2+(-1)^2 }=1$
 
+$-i$ liegt graphisch gesehen bei $-\frac{\pi}{2}$
+
+$-i=1\left( \cos{-\frac{\pi}{2}} + i \sin{\frac{\pi}{2}} \right)$
+
+Die Berechnung der n-ten Wurzel
+
+$w_{k}=r^{\frac{1}{n}}\left( \cos{\frac{{\varphi+2\pi k}}{n}} \right)$
