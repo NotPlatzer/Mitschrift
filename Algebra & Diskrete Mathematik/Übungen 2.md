@@ -48,3 +48,12 @@ $\varphi=-\frac{\pi}{2}+2\pi=\frac{\pi}{2}$
 $w_{1}=\left[ 1, \frac{\pi}{2} \right]$
 
 $w_{2}=\left[ 1,{\frac{7\pi}{6}} \right]$
+
+### 42)
+Alle Lösungen der Gleichung: $z^2+2z+4=0$
+
+$z^2+2z+1=(z+1)^2$
+$\implies z^2+2z+4=(z+1)^2+3\implies \underbrace{ (z+1)^2 }_{ w }=-3$
+$w^2=-3 \implies w=\pm i \sqrt{ 3 }$
+
+$z+1=\pm$
