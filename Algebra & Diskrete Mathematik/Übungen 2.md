@@ -10,5 +10,14 @@ Man bestimme rechnerisch (ohne Taschenrechner) und graphisch Summe und Produkt d
 $z_{1}=3-4i$ ⟶ Kartesische Darstellung
 $z_{2}=[2,\frac{\pi}{2}]$ ⟶ Polare Darstellung
 
-$z_{2}=r(\cos{\varphi} + i \sin{\varphi})\implies 2\left( \cos{\frac{\pi}{2}} + i \sin( \frac{\pi}{2}))$
+$z_{2}=r(\cos{\varphi} + i \sin{\varphi})\implies 2\left( \cos{\frac{\pi}{2} + \sin{\frac{\pi}{2}}} \right)$
+
+$\cos \frac{\pi}{2} = o$
+$\sin \frac{\pi}{2}=1$
+
+$z_{2}=\boxed{2i}$
+
+$z=(3-4i)+2i=\boxed{3-2i}$
+
+$z=(3-4i)\cdot 2i = 6i-\underbrace{ 8i }_{  }^2$
 
