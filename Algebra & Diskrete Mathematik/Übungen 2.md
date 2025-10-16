@@ -67,3 +67,14 @@ $r=\sqrt{ a^2+b^2 }= \sqrt{ (-1)^2+(\pm \sqrt{ 3 })^2 }=\sqrt{ 1+3 }=2$
 Zur Umrechnung brauchen wir einen Hilfswinkel $\alpha$
 $\tan \alpha=|\frac{b}{a}|$
 $\alpha=\arctan{\frac{b}{a}}$
+
+$\varphi_{1}=\pi-\arctan{\frac{\sqrt{ 3 }}{1}}=\frac{2\pi}{3}$
+
+$\varphi_{2}=\pi+\arctan{\frac{\sqrt{ 3 }}{1}}=\frac{4\pi}{3}$
+
+
+Das $\pi\pm \dots$ kommt davon, dass der Winkel zur
+
+$z_{1}=\left[ 1,{\frac{2\pi}{3}} \right]$
+$z_{2}=\left[ 1,{\frac{4\pi}{3}} \right]$
+
