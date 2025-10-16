@@ -1,7 +1,4 @@
 
-33, 38, 42, 49, 53, 58
-
-
 ### 33)
 
 Man bestimme rechnerisch (ohne Taschenrechner) und graphisch Summe und Produkt der komplexen Zahlen z1 = 3 − 4i und z2 = [2, π 2 ].
@@ -20,7 +17,7 @@ $z_{2}=\boxed{2i}$
 $z=(3-4i)+2i=\boxed{3-2i}$
 
 $z=(3-4i)\cdot 2i = 6i-\underbrace{ 8i^2 }_{ i^2=1 } = 6i+8$
-### 36)
+### 38)
 
 Alle werte von $\sqrt[3]{ -i }$
 
@@ -73,7 +70,7 @@ $\varphi_{1}=\pi-\arctan{\frac{\sqrt{ 3 }}{1}}=\frac{2\pi}{3}$
 $\varphi_{2}=\pi+\arctan{\frac{\sqrt{ 3 }}{1}}=\frac{4\pi}{3}$
 
 
-Das $\pi\pm \dots$ kommt davon, dass der Winkel zur
+Das $\pi\pm \dots$ kommt davon, dass der Winkel zur realen Ebene berechnet werden muss und sich $z_{1}$ im 2ten Quadranten befindet und $z_{2}$ im 3ten.
 
 $z_{1}=\left[ 1,{\frac{2\pi}{3}} \right]$
 $z_{2}=\left[ 1,{\frac{4\pi}{3}} \right]$
