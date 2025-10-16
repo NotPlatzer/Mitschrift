@@ -73,6 +73,6 @@ $\varphi_{2}=\pi+\arctan{\frac{\sqrt{ 3 }}{1}}=\frac{4\pi}{3}$
 
 Das $\pi\pm \dots$ kommt davon, dass der Winkel zur realen Ebene berechnet werden muss und sich $z_{1}$ im 2ten Quadranten befindet und $z_{2}$ im 3ten.
 
-$z_{1}=\left[ 1,{\frac{2\pi}{3}} \right]$
-$z_{2}=\left[ 1,{\frac{4\pi}{3}} \right]$
+$z_{1}=\left[ 2,{\frac{2\pi}{3}} \right]$
+$z_{2}=\left[ 2,{\frac{4\pi}{3}} \right]$
 
