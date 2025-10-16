@@ -19,5 +19,12 @@ $z_{2}=\boxed{2i}$
 
 $z=(3-4i)+2i=\boxed{3-2i}$
 
-$z=(3-4i)\cdot 2i = 6i-\underbrace{ 8i }_{  }^2$
+$z=(3-4i)\cdot 2i = 6i-\underbrace{ 8i^2 }_{ i^2=1 } = 6i+8$
+### 36)
+
+Alle werte von $\sqrt[3]{ -i }$
+
+$x^3=-i$
+
+$z=r(\cos \varphi+i \sin \varphi)=-i$
 
