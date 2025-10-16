@@ -11,14 +11,12 @@
             "id": "cdeae5e8a431b2f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Denkweisen der Informatik/V2 - Computational Thinking.md",
-                "mode": "source",
-                "source": false
+                "file": "Algebra & Diskrete Mathematik/Übungen.pdf"
               },
-              "icon": "lucide-file",
-              "title": "V2 - Computational Thinking"
+              "icon": "lucide-file-text",
+              "title": "Übungen"
             }
           }
         ]
@@ -150,13 +148,23 @@
               "icon": "lucide-list",
               "title": "Outline of V1 - Critical Thinking"
             }
+          },
+          {
+            "id": "f7fed3d6143aba69",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,14 +174,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdeae5e8a431b2f9",
+  "active": "f7fed3d6143aba69",
   "lastOpenFiles": [
-    "Algebra & Diskrete Mathematik/Übungen.md",
+    "Algebra & Diskrete Mathematik/Übungen 2.md",
+    "Algebra & Diskrete Mathematik/Übungen 1.md",
+    "Algebra & Diskrete Mathematik/mfi1.pdf",
     "Algebra & Diskrete Mathematik/Übungen.pdf",
-    "Denkweisen der Informatik/V1 - Critical Thinking.md",
-    "Denkweisen der Informatik/V2 - Computational Thinking.md"
+    "Algebra & Diskrete Mathematik/Übungen.md",
+    "Algebra & Diskrete Mathematik/Mathe Vorlesung 1.md",
+    "Denkweisen der Informatik/V2 - Computational Thinking.md",
+    "Grundzüge digitaler Systeme/04_Codierung_Informationstheorie.pdf",
+    "Denkweisen der Informatik/V3 - Computational Thinking.md",
+    "Denkweisen der Informatik/V1 - Critical Thinking.md"
   ]
 }
