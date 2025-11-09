@@ -20,4 +20,6 @@ Symmetrischer Exzess
 
 Nicht-symmetrischer Exzess
 
-		
+![[Pasted image 20251109170731.png]]
+
+
