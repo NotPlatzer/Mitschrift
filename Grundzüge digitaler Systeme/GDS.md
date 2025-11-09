@@ -46,3 +46,12 @@ Denormalisierung:
 Wird genutzt für Zahlen nahe oder gleich Null. Wenn der $e=e_{min}$ dann heben wir die $m_{0}\neq 0$ Bedingung auf.
 
 Schreibweise:
+$F(b, p, emin, emax, denorm)$
+
+b . . . Basis (base, radix) (b ≥ 2) 
+p . . . Mantissenlänge (precision) (p ≥ 2) 
+emin . . . kleinster Exponent 
+emax . . . größter Exponent 
+denorm . . . Normalisierungsindikator 
+	true ⇒ enthält denormalisierte Zahlen 
+	false ⇒ enthält keine denormalisierten Zahlen
