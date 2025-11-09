@@ -23,3 +23,12 @@ Nicht-symmetrischer Exzess
 ![[Pasted image 20251109170731.png]]
 
 
+### Exponentialschreibweise
+
+$x=m\cdot b^e$
+
+Normalisierung:
+- Genau eine stelle vor dem Komma
+- Exponent 
+
+
