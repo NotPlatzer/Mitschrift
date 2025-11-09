@@ -10,6 +10,14 @@ Negative Zahl:
 
 EK nehmen und +1 rechnen
 
-### Excessdarstellung
+### Exzessdarstellung
+
+Symmetrischer Exzess
+
+![[Pasted image 20251109170446.png]]
 
 
+
+Nicht-symmetrischer Exzess
+
+		
