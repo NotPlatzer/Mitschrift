@@ -29,6 +29,11 @@ $x=m\cdot b^e$
 
 Normalisierung:
 - Genau eine stelle vor dem Komma
-- Exponent 
+- Exponent ganzzahlig
+- Basis ganzzahlig $b>1$
 
+### Gleitkomma
 
+![[Pasted image 20251109172124.png]]
+
+No
