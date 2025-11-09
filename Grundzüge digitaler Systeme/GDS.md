@@ -36,4 +36,13 @@ Normalisierung:
 
 ![[Pasted image 20251109172124.png]]
 
-No
+Normalisierung:
+
+- Erste Stelle der Mantisse $m_{0}\neq 0$ 
+- Genau eine Stelle vor dem Komma
+
+Denormalisierung:
+
+Wird genutzt für Zahlen nahe oder gleich Null. Wenn der $e=e_{min}$ dann heben wir die $m_{0}\neq 0$ Bedingung auf.
+
+Schreibweise:
