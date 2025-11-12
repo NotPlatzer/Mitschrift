@@ -77,3 +77,4 @@ Das $\pi\pm \dots$ kommt davon, dass der Winkel zur realen Ebene berechnet werde
 $z_{1}=\left[ 2,{\frac{2\pi}{3}} \right]$
 $z_{2}=\left[ 2,{\frac{4\pi}{3}} \right]$
 
+
