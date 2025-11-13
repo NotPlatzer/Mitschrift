@@ -6,8 +6,9 @@
 277, 307
 
 277)
-Kantenfolge: Eine Folge von Kanten die miteinander verbunden sind
+Kantenfolge: Eine Folge von Kanten die miteinander verbunden sind.
 Kantenzug: Eine Folge von Kanten wobei alle unterschiedlich sind.
-Bahn: 
+Bahn: Eine Folge von Kanten wobei jeder durchlaufende Knoten unterschiedlich ist.
 
 	a) 2,8,1,2,8  
+	2,8,1,2,1  
