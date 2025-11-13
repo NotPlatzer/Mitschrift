@@ -1,8 +1,8 @@
-23,2,6,26,14,20
-33, 38, 42, 49, 53, 58
-70, 64, 67, 74, 76, 80
-89, 100, 103, 131, 110, 123
-154, 146, 171, 192, 185, 207
+2, 6, 14, 20, 23, 26,  
+33, 38, 42, 49, 53, 58,  
+64, 67, 70, 74, 76, 80,  
+89, 100, 103, 110, 123, 131,  
+146, 154, 171, 185, 192, 207,  
 277, 307
 
 277)
@@ -15,4 +15,4 @@ Bahn: Eine Folge von Kanten wobei jeder durchlaufende Knoten unterschiedlich ist
 
 ![[image.png]]
 ![[image-1.png]]
-![[image-2.png]]![[image-3.png]]![[image-4.png]]
+![[image-2.png]]![[image-3.png]]![[image-4.png]]![[image-5.png]]![[image-6.png]]![[image-7.png]]![[image-8.png]]![[image-9.png]]![[image-10.png]]![[image-11.png]]![[image-12.png]]
