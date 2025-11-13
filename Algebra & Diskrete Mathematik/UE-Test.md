@@ -4,3 +4,10 @@
 89, 100, 103, 131, 110, 123
 154, 146, 171, 192, 185, 207
 277, 307
+
+277)
+Kantenfolge: Eine Folge von Kanten die miteinander verbunden sind
+Kantenzug: Eine Folge von Kanten wobei alle unterschiedlich sind.
+Bahn: 
+
+	a) 2,8,1,2,8  
