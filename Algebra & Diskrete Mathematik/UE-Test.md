@@ -12,3 +12,7 @@ Bahn: Eine Folge von Kanten wobei jeder durchlaufende Knoten unterschiedlich ist
 
 	a) 2,8,1,2,8  
 	2,8,1,2,1  
+
+![[image.png]]
+![[image-1.png]]
+![[image-2.png]]![[image-3.png]]![[image-4.png]]
