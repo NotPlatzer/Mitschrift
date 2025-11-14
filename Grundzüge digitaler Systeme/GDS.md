@@ -61,4 +61,8 @@ denorm . . . Normalisierungsindikator
 
 ## KNF
 
-$$
+$(A\vee B)\wedge(C \vee D)$
+
+## DNF
+
+$(A \wedge B) \vee (C \wedge D)$
