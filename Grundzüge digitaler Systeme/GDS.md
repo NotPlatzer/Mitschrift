@@ -55,3 +55,10 @@ emax . . . größter Exponent
 denorm . . . Normalisierungsindikator 
 	true ⇒ enthält denormalisierte Zahlen 
 	false ⇒ enthält keine denormalisierten Zahlen
+
+
+
+
+## KNF
+
+$$
