@@ -116,3 +116,4 @@ $2^n\leq 3^n$
 $\implies \boxed{3+2^n\leq 2\cdot3^n}$
 $\implies \boxed{2 \cdot 3^n + 3^n} \implies \boxed{3^{n+1}}$
 
+
