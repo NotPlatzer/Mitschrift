@@ -5,5 +5,5 @@
 	Eine Gruppenarbeit sollte sinnvoll und interresant sein.
 	
 3. Was würden Sie am liebsten unternehmen, wenn Sie zwei Stunden Zeit hätten?
-	Tacos am Naschmarkt essen oder mit freunden kle
+	mit freunden Tacos am Naschmarkt essen oder  klettern
 	
