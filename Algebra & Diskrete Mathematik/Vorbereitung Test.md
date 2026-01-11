@@ -43,14 +43,21 @@ Algebraische Strukturen
 	Gruppen
 	Ringe und Körper
 	Verbände und Boolsche Algebren
-	
 
 3)
 
-Vektoren 
+Vektoren
+	Vektorräume
+	Lineare Unabhängigkeit und Basen
 Matrizen
+	Rechnen mit Matrizen
+	Invertierbare Matrizen
+	Rang & elementare Umformungen
 Lineare Abbildungen
 Lineare Gleichungssysteme
+	Lösbarkeit
+	Gaußsches eliminationsverfahren
 Determinanten
-Eigenwerte und Eigenvektoren Skalarprodukte
+Eigenwerte und Eigenvektoren 
+Skalarprodukte
 Tensoren 
