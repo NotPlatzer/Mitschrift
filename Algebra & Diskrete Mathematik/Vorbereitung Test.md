@@ -29,8 +29,21 @@ Relationen und Funktionen
 2)
 
 Kombinatorik
+	Grundaufgaben
+	Binomischer Lehrsatz
+	Inklusions-Exklusions-Prinzip
 Graphentheorie
+	Grundlegende Begriffsbildungen
+	Bäume, Wälder & azyklische Graphen
+	Eulersche und Hamiltonsche Linien
+	Planare Graphen
+	Netzwerke und Algorithmen
 Algebraische Strukturen
+	Binäre Operationen
+	Gruppen
+	Ringe und Körper
+	Verbände und Boolsche Algebren
+	
 
 3)
 
