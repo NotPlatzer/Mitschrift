@@ -4,24 +4,24 @@
 - Induktion  
 - Komplexe Zahlen  
 
-## Elementare Zahlentheorie (Übungen 51-)
+## Elementare Zahlentheorie (Übungen 51-77)
 - Teilbarkeit  
 - Primzahlen  
 - Kongruenzen und Restklassen  
 
-## Elementare Aussagenlogik 
+## Elementare Aussagenlogik (Übungen 78-100)
 - Aussagen  
 - Äquivalente Formeln  
 - Prädikatenlogik  
 - Elementare Beweistechniken  
 
-## Mengen
+## Mengen (Übungen 101-106)
 - Der Mengenbegriff  
 - Mengenoperationen  
 - Mengenidentitäten  
 - Potenzmenge  
 
-## Relationen und Funktionen 
+## Relationen und Funktionen (Übungen 107-158) 
 - Der Relationsbegriff  
 - Äquivalenzrelationen  
 - Halbordnungen  
@@ -30,7 +30,7 @@
 
 # 2) Kombinatorik & Strukturen
 
-## Kombinatorik
+## Kombinatorik (Übungen 159-)
 - Grundaufgaben  
 - Binomischer Lehrsatz  
 - Inklusions-Exklusions-Prinzip  
