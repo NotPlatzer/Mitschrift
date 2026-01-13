@@ -1,0 +1,6 @@
+ Digitalschaltungen
+ Automaten
+ Prädikatenlogik
+ Reguläre Sprachen
+ Kontextfreie Grammatiken
+ Petri-Netze 
