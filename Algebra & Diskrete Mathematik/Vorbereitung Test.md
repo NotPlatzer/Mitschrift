@@ -72,3 +72,32 @@
 
 ## Skalarprodukte
 
+## Tag 3 – Kombinatorik + Graphentheorie (großer Block)
+
+**Ziel:** Standardmethoden sofort erkennen.
+
+1. **Kombinatorik** (sehr häufig)
+    
+
+- Zählprinzipien, (nk)\binom{n}{k}(kn​), Permutationen/Variationen/Kombinationen
+    
+- **Binomischer Lehrsatz**
+    
+- **Inklusion–Exklusion** (klassische Aufgaben)
+    
+
+2. **Graphentheorie – Grundlagen & typische Sätze** (sehr häufig)
+    
+
+- Grad, Handshaking-Lemma, Wege/Zyklen
+    
+- Bäume (Eigenschaften), Zusammenhang
+    
+- Euler/Hamilton (Kriterien, typische Beispiele)
+    
+- planare Graphen (falls in eurem Stoff oft vorkommt)
+    
+- einfache Argumente mit Schubfachprinzip + Grade (wie deine Aufgaben 2.17–2.19)
+    
+
+**Übungsfokus:** pro Thema mehrere Standardaufgaben + 1 “Beweisaufgabe” (Gradargument, Schubfach)
