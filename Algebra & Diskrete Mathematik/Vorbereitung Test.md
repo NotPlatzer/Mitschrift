@@ -101,3 +101,5 @@
     
 
 **Übungsfokus:** pro Thema mehrere Standardaufgaben + 1 “Beweisaufgabe” (Gradargument, Schubfach)
+
+![[image-29.png]]
