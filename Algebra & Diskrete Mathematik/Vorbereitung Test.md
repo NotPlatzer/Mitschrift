@@ -7,7 +7,7 @@
 ## Elementare Zahlentheorie (Übungen 51-77)
 - Teilbarkeit  
 - Primzahlen  
-- Kongruenzen und Restklassen  
+	- Kongruenzen und Restklassen  
 
 ## Elementare Aussagenlogik (Übungen 78-100)
 - Aussagen  
