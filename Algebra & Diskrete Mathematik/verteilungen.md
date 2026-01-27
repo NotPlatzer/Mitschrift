@@ -1,3 +1,25 @@
+
+
+![[WhatsApp Image 2026-01-24 at 16.16.26.jpeg]]
+
+12,0
+2,0
+2,0
+2,2
+4,3
+2,7
+7,5
+0,2
+3,4
+4,10
+4,1
+0,6
+4,1
+7,1
+3,1
+8,1
+3,0
+
 {
   "totals": {
     "practical": 67,
@@ -67,7 +89,7 @@
     },
     {
       "topic": "Matrizen/Determinanten/Eigenwerte&Eigenvektoren",
-      "counts": { "practical": 0, "theoretical": 0, "overall": 0 },
+      "counts": { "practical": 7, "theoretical": 1, "overall": 8 },
       "probabilities": { "practical": 0.0, "theoretical": 0.0, "overall": 0.0 }
     },
     {
